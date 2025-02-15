@@ -17,7 +17,7 @@ export default function Home() {
       <main className="">
         <div className="flex flex-col gap-8 row-start-2 items-center pt-[7rem] pb-[7rem]">
         <Image
-          className="dark:invert  transition-transform duration-200 hover:scale-110"
+          className="transition-transform duration-200 hover:scale-110"
           src="/img/gif.gif"
           alt="Next.js logo"
           width={450}
